@@ -6,9 +6,9 @@
 - Medium:[https://zktmeta.medium.com/)
 - /*******************************/
 -  Coming in future
-- Gitter Group:[https://gitter.im/zkTube-Labs/community](https://gitter.im/zkTube-Labs/community)  
-- Discord Chat:[https://discord.gg/xtVdMCr54q](https://discord.gg/xtVdMCr54q)  
-- Telegram:[https://t.me/zkTubeProtocol](https://t.me/zkTubeProtocol)  
+- Gitter Group  
+- Discord Chat  
+- Telegram  
 
 
 # Announcement channel
