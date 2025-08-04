@@ -1,7 +1,7 @@
 # zkTube Mainnet Simulation Mining Tutorial 
 
 
-## I. Steps to Receive ZKTR
+## I. Steps to Receive  ZKTR
 
 ### Step 1: Enter the official  website [https://zktube.io/](https://zktube.io/) and click the [Connect Wallet] button;
 
